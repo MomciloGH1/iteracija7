@@ -1,0 +1,4 @@
+git config --global user.name “nina_bosnjakovic”
+git config --global user.email “nina_bosnjakovic@yahoo.com”
+git status
+
